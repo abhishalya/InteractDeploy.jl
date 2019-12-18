@@ -1,5 +1,3 @@
-# interact-deploy
-
 This is a simple utility to deploy your
 [Interact.jl](https://github.com/JuliaGizmos/Interact.jl) apps to
 [Heroku](https://heroku.com).
